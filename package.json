@@ -1,0 +1,16 @@
+{
+  "name": "fifoo-corporate-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editable corporate website for fifooincorporated.com",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:production": "node scripts/build.mjs --production",
+    "preview": "node scripts/serve.mjs",
+    "test": "node --test tests/site.test.mjs"
+  }
+}

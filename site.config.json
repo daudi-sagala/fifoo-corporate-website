@@ -1,0 +1,37 @@
+{
+  "displayName": "Fifoo Incorporated",
+  "legalName": "Fifoo Incorporated",
+  "domain": "fifooincorporated.com",
+  "company": {
+    "jurisdiction": "Delaware, United States"
+  },
+  "contact": {
+    "email": "info@fifooincorporated.com",
+    "phoneDisplay": "(410) 847-5687",
+    "phoneE164": "",
+    "addressLines": [
+      "205 E Joppa Rd",
+      "Towson, Maryland 21286",
+      "United States"
+    ]
+  },
+  "product": {
+    "status": "In development",
+    "websiteUrl": "",
+    "iosUrl": "",
+    "androidUrl": ""
+  },
+  "privacy": {
+    "effectiveDate": "09/15/2026",
+    "hostingProvider": "Microsoft Azure Static Web Apps",
+    "emailProvider": "Google",
+    "hostingLogRetention": "Operational and security access logs are retained for a period of 90 days within our centralized logging infrastructure. Access to these logs is strictly restricted to authorized DevOps and security personnel via Role-Based Access Control (RBAC) for the purposes of system troubleshooting, performance monitoring, and security auditing.",
+    "correspondenceRetention": "All business email correspondence is retained for 7 years to ensure compliance with legal and regulatory standards. Upon reaching the end of the retention period, emails are permanently deleted from active servers and backups via automated purging scripts, preventing any subsequent recovery."
+  },
+ "launch": {
+  "companyDetailsConfirmed": true,
+  "contactMethodsTested": true,
+  "privacyReviewed": true,
+  "allowIndexing": true
+}
+}

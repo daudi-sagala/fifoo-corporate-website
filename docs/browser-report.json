@@ -1,0 +1,218 @@
+{
+  "scope": "Local HTML/CSS/JS in Chromium; assets embedded for testing. No hosted or mail delivery test.",
+  "checks": [
+    {
+      "check": "layout and semantic page",
+      "page": "index.html",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "fifoo.html",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "contact.html",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "privacy.html",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "404.html",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "index.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "fifoo.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "contact.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "privacy.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "404.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "index.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "fifoo.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "contact.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "privacy.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "404.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "index.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "fifoo.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "contact.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "privacy.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "404.html",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "index.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "fifoo.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "contact.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "privacy.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "404.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "index.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "fifoo.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "contact.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "privacy.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "check": "layout and semantic page",
+      "page": "404.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "check": "mobile menu open, Escape close, focus return",
+      "passed": true
+    },
+    {
+      "check": "desktop resize restores navigation",
+      "passed": true
+    },
+    {
+      "check": "FAQ disclosure open and close",
+      "passed": true
+    },
+    {
+      "check": "content and navigation available without JavaScript",
+      "passed": true
+    },
+    {
+      "check": "reduced-motion preference respected",
+      "passed": true
+    },
+    {
+      "check": "configured production contact links and banner removal",
+      "passed": true
+    },
+    {
+      "check": "clipboard success and honest failure feedback with mocked API",
+      "passed": true
+    },
+    {
+      "check": "no uncaught JavaScript errors",
+      "passed": true
+    }
+  ],
+  "total": 38
+}
